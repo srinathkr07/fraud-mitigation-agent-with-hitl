@@ -1,6 +1,6 @@
 # 🛡️ FraudGuard AI — Intelligent Fraud Mitigation Agent
 
-An AI-powered, self-contained fraud detection system that combines **traditional Machine Learning** (IsolationForest anomaly detection) with a **Generative AI agent** (powered by `nvidia/nemotron-3-super-120b-a12b:free` via OpenRouter) and a **Human-in-the-Loop (HITL)** approval layer to continuously monitor account activity, identify threats, and recommend or execute protective actions.
+An AI-powered, self-contained fraud detection, analysis and mitigation system that combines **traditional Machine Learning** (IsolationForest anomaly detection) with a **Generative AI agent** (powered by `nvidia/nemotron-3-super-120b-a12b:free` via OpenRouter) and a **Human-in-the-Loop (HITL)** approval layer to continuously monitor account activity, identify threats, and recommend or execute protective actions.
 
 ---
 
